@@ -1,4 +1,4 @@
-# dio-trilha-java-basico
+# DIO-trilha-java-basico
 
 # DIO - Trilha Java Básico
 www.dio.me
