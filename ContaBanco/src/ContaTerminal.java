@@ -1,11 +1,9 @@
-package ContaBanco;
-
 import java.util.Scanner;
 
-public class ContaTerminal {
-    public static void main(String[] args) {
-        
-        Scanner scan = new Scanner(System.in);
+public class ContaTerminal
+ {
+    public static void main(String[] args) throws Exception {
+         Scanner scan = new Scanner(System.in);
 
         String nomeCliente, agencia;
         int numeroUsuario;
